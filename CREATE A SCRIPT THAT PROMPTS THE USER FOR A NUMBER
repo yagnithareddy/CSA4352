@@ -1,0 +1,7 @@
+<script>
+  let number=parseInt(prompt("Enter the number"));
+  if(isNaN(number))
+  {
+    alert("enter a number not alphabets");
+  }
+</script>
