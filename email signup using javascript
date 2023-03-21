@@ -1,0 +1,32 @@
+<script>
+  function validateform()
+var nameInput = document.getElementById("name");
+var emailInput = document.getElementById("email");
+var passwordInput = document.getElementById("password");
+
+var signUpButton = document.getElementById("sign-up-button");
+
+
+signUpButton.addEventListener("click", function(event) {
+
+  event.preventDefault();
+
+
+  var name = nameInput.value.trim();
+  var email = emailInput.value.trim();
+  var password = passwordInput.value.trim();
+
+
+  if (name === "" || email === "" || password === "") {
+    alert("Please fill in all the fields.");
+    return;
+  }
+</script>
+<body>
+  <form name="myform" method="post" action="abc.jsp" onsubmit="return validateform()" >
+Name: <input type="text" name="name"><br/>  
+Password: <input type="password" name="password"><br/>  
+email: <input type="email" name="email"><br/>
+<input type="submit"value="signup">
+</form>
+</body>
