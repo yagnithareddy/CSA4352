@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>portfolio</title>
+</head>
+<body style="color:black"><img src="C:\Users\91995\OneDrive\Pictures\images.jpeg">
+<h2>NAME:</h2>
+K Sai yagnitha
+<h2>EDUCATION/QUALIFICATION:</h2>
+<ol>
+<li>NARAYANA</li>
+intermediate score:956
+<li>SIMATS</li>
+saveetha school of engineering BE CSE
+</ol>
+<h2>SKILLS:</h2>
+<ol>
+<li>c programming</li>
+<li>python</li>
+<li>java</li>
+</ol>
+<h2>TECHNICAL SKILLS:</h2>
+<ul type="square">
+<li>problem solving</li>
+<li>data structures</li>
+<li>CSS</li>
+</ul>
+<h2>EXPERIENCE:</h2>
+<ul>
+<li>WIPRO</li>
+intern as project developer
+<li>AMAZON</li>
+feb 2023
+SDE intern project upon first time quality project
+</ul>
+</body>
+</html>
