@@ -1,0 +1,11 @@
+<html>
+<head>
+</head>
+<body>
+<label>choose a dept:</label>
+<select name="dept">
+<option value="CSE">CSE</option>
+<option value="ECE">ECE</option>
+</select>
+</body>
+</html>
